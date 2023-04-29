@@ -22,7 +22,7 @@ first ill create 2 players (board that bounce the ball) to input the data inside
 
 than ill be creating board context named Pboarder using name.x name.y name.width name.height to ensure the function is functioning inside the canvas
 
-
+theres more to come but i need to research more about pong game using console engine just to find out everything 
 
 
 
